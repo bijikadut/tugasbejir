@@ -1,0 +1,19 @@
+.custom-btn-singup {
+  background-color: white;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  border-color: black;
+}
+
+.custom-btn-login {
+  background-color: #387adf;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  border-color: #387adf;
+}
+
+.nav-custom-bg {
+  background-color: white;
+}
